@@ -66,3 +66,8 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 - Website - [https://nestjs.com](https://nestjs.com/)
 - Twitter - [@nestframework](https://twitter.com/nestframework)
+
+## Final assignment requirements
+1. Backend : Nest.Js
+2. Database : PostgreSQL
+3. Frontend : React dan Next.js
